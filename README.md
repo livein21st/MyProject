@@ -1,5 +1,5 @@
 
-![Project Banner](https://github.com/livein21st/MyProject/doc/images/banner.png)
+![Project Banner](/doc/images/banner.png)
 
 # Contributors
 
