@@ -1,5 +1,5 @@
 ```markdown
-![Project Banner](doc/images/projectbanner.png)
+![Project Banner](/doc/images/projectbanner.png)
 ```
 
 # Contributors
